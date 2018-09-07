@@ -1,1 +1,1 @@
-A short introduction about your team
+TRONFANS一群由波场的投资者，波场技术爱好者和社区活跃人员组成，致力于为波场的发展和壮大做出自己贡献。
