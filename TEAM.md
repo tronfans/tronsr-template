@@ -1,17 +1,17 @@
 ## Founder
 
-Name: [Simba Peng]
+Name: [Buckshot Peng]
 
 Role: [CEO]
 
-毕业于名牌大学.曾效力于多家知名互联网公司. 技术栈全面. 对区块链行业有深入的理解和敏锐的观察力.
+毕业于名牌大学.曾效力于多家知名互联网公司. 对区块链行业有深入的理解和敏锐的观察力.
 
 
 ## Team Member 1
 
 Name: [Alex Liu]
 
-Role: [全栈工程师]
+Role: [CTO]
 
 十多年技术开发人员，C++/python/JAVA高级工程师。
 
@@ -20,7 +20,7 @@ Role: [全栈工程师]
 
 Name: [Kity Wong]
 
-Role: [商务运营]
+Role: [COO]
 
 多年传统VC创投经历，资深区块链投资者。
 
